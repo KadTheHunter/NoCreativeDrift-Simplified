@@ -11,7 +11,7 @@ import net.fabricmc.loader.api.FabricLoader;
 
 public class NoCreativeDriftSimplifiedConfig {
     public static boolean disableVerticalDrift;
-    public static final boolean DEFAULT_DISABLE_VERTICAL_DRIFT = true;
+    public static final boolean DEFAULT_DISABLE_VERTICAL_DRIFT = false;
     private static final String DISABLE_VERTICAL_DRIFT_KEY = "disableVerticalDrift";
 
     public static boolean disableNonCreativeDrift;
