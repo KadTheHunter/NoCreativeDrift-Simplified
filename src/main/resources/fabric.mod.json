@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "nocreativedriftsimplified",
+  "version": "${version}",
+  "name": "NoCreativeDrift-Simplified",
+  "description": "Prevents the player from drifting after they stop flying in creative mode.",
+  "authors": [
+    "DarkPred",
+    "KadTheHunter"
+  ],
+  "contact": {
+    "sources": "https://github.com/KadTheHunter/NoCreativeDrift-Simplified/"
+  },
+  "license": "unlicense",
+  "icon": "assets/nocreativedriftsimplified/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.kaddicus.nocreativedriftsimplified.NoCreativeDriftSimplified"
+    ],
+    "modmenu": [
+      "org.kaddicus.nocreativedriftsimplified.config.ModMenuPlugin"
+    ]
+  },
+  "depends": {
+    "minecraft": ">=26.3",
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "java": ">=25"
+  },
+  "suggests": {
+    "cloth-config": ">=26.1.154",
+    "modmenu": ">=18.0.0-alpha.8"
+  }
+}

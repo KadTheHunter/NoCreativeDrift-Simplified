@@ -1,0 +1,19 @@
+{
+  "key.nocreativedrift-simplified.toggle_drift": "Toggle Creative Drift",
+  "key.category.nocreativedrift-simplified.category": "NoCreativeDrift-Simplified",
+
+  "hud.nocreativedrift-simplified.drift_strength": "§7Drift: %s",
+  "hud.nocreativedrift-simplified.drift_strength_vanilla": "§aVanilla",
+  "hud.nocreativedrift-simplified.drift_strength_strong": "§eStrong",
+  "hud.nocreativedrift-simplified.drift_strength_weak": "§6Weak",
+  "hud.nocreativedrift-simplified.drift_strength_disabled": "§cDisabled",
+
+  "text.autoconfig.nocreativedrift-simplified.title": "NoCreativeDrift-Simplified Config",
+  "text.autoconfig.nocreativedrift-simplified.option.disableVerticalDrift": "Disable Vertical Drift",
+  "text.autoconfig.nocreativedrift-simplified.option.disableNonCreativeDrift": "Disable Non-Creative Drift",
+  "text.autoconfig.nocreativedrift-simplified.option.driftStrength": "Default Drift Strength",
+  "text.autoconfig.nocreativedrift-simplified.option.confirmation": "Show Confirmation Message",
+  "text.autoconfig.nocreativedrift-simplified.option.confirmationType": "Confirmation Message Type",
+  "text.autoconfig.nocreativedrift-simplified.option.confirmationType.chat": "Chat",
+  "text.autoconfig.nocreativedrift-simplified.option.confirmationType.hud": "HUD"
+}
